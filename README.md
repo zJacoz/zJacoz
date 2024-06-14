@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zJacoz
+<h1>👋 Hi, I’m @zJacoz</h1>
 - 👀 I’m interested in learn more about System & Programmation
 - 🌱 I’m currently learning programmation & database
 - 💞️ I’m looking to collaborate on development area & programmation
